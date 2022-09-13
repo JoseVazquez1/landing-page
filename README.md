@@ -1,3 +1,3 @@
 # landing-page
 
-Creation of a web page to practice Flexbox skills.
+This is a fictional web page to practice my Flexbox skills.
