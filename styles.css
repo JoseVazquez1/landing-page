@@ -159,3 +159,34 @@ h1 {
     font-style: italic;
     font-weight: 300;
 }
+
+/* CALL TO ACTION SECTION */
+
+.cta {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.cta .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    width: 900px;
+    padding: 30px 60px;
+    border-radius: 10px;
+}
+
+.cta-title {
+    font-size: 24px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.cta-button {
+    border: 2px solid white;
+}
