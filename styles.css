@@ -168,6 +168,7 @@ h1 {
     justify-content: center;
     align-items: center;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .cta .container {
@@ -189,4 +190,14 @@ h1 {
 
 .cta-button {
     border: 2px solid white;
+}
+
+/* FOOTER SECTION */
+
+footer {
+    color: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
